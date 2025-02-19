@@ -1,0 +1,23 @@
+name: chatgpt
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to pub.dev.
+publish_to: 'none'
+
+# The following defines the environment for the project.
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on using the package, visit https://flutter.dev/docs/development/packages-and-plugins/using-packages
+flutter:
+  uses-material-design: true
