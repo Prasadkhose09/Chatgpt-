@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 
 class GeminiService {
   // Your API Key
-  final String apiKey = 'AIzaSyBBmVv31m8g71umYiiuu4sUJTsbcRbbRIU';
+  final String apiKey = 'A';
 
   // The model name (e.g., gemini-1.5-flash)
   final String model = 'gemini-1.0-Pro';
